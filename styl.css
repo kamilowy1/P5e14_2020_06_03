@@ -1,0 +1,51 @@
+*
+{
+   font-family: "Times new Roman";
+   font-style: italic;
+   text-align: center;
+   margin: 0;
+}
+
+#baner
+{
+    background-color: lightpink;
+    height: 80px;
+    padding-top: 10px;
+}
+
+#lewy
+{
+    background-color: lightpink;
+    height: 500px;
+    width: 20%;
+    font-size: 20px;
+    float:left;
+}
+
+#prawy
+{
+    background-color: black;
+    height: 500px;
+    width: 80%;
+    font-size: 30px;
+    color: lightpink;
+    float: left;
+}
+
+#stopka
+{
+    background-color: lightpink;
+    height: 60px;
+    clear: both;
+}
+
+.obraz1
+{
+    width: 180px;
+    height: 180px;
+}
+
+p
+{
+    margin-top: 50px;
+}
